@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExamenDI</string>
+    <string name="titulo_George">George Clooney once gave 14 friends $1 million each -- in cash</string>
+    <string name="noticia_George">He shared the anecdote in an interview with GQ, wich crowned Clooney its Icon of the Year, among other ho...</string>
+    <string name="titulo_Espacio">Space is dark, but scientists have found unexplained light.</string>
+    <string name="noticia_Espacio">Scientists have used a NASA probe way out in space, beyond Pluto, to m...</string>
+    <string name="todo">TODO</string>
+    <string name="discover">Discover</string>
+    <string name="updates">Updates</string>
+    <string name="recent">Recent</string>
+    <string name="more">More</string>
+</resources>
